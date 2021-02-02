@@ -1,0 +1,9 @@
+c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\bin\Debug\Radar_Project.exe.config
+c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\bin\Debug\Radar_Project.exe
+c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\bin\Debug\Radar_Project.pdb
+c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\obj\Debug\Radar_Project.csprojResolveAssemblyReference.cache
+c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\obj\Debug\Radar_Project.Form1.resources
+c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\obj\Debug\Radar_Project.Properties.Resources.resources
+c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\obj\Debug\Radar_Project.csproj.GenerateResource.Cache
+c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\obj\Debug\Radar_Project.exe
+c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\obj\Debug\Radar_Project.pdb
