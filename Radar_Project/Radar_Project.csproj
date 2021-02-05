@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Sense_Plane.cs" />
+    <Compile Include="Classes\Start_Radar.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
