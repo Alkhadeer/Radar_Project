@@ -7,3 +7,12 @@ c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project
 c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\obj\Debug\Radar_Project.csproj.GenerateResource.Cache
 c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\obj\Debug\Radar_Project.exe
 c:\users\elite\documents\visual studio 2013\Projects\Radar_Project\Radar_Project\obj\Debug\Radar_Project.pdb
+C:\Users\Elite\Desktop\Gamdan\Radar_Project\Radar_Project\bin\Debug\Radar_Project.exe.config
+C:\Users\Elite\Desktop\Gamdan\Radar_Project\Radar_Project\obj\Debug\Radar_Project.exe
+C:\Users\Elite\Desktop\Gamdan\Radar_Project\Radar_Project\obj\Debug\Radar_Project.pdb
+C:\Users\Elite\Desktop\Gamdan\Radar_Project\Radar_Project\bin\Debug\Radar_Project.exe
+C:\Users\Elite\Desktop\Gamdan\Radar_Project\Radar_Project\bin\Debug\Radar_Project.pdb
+C:\Users\Elite\Desktop\Gamdan\Radar_Project\Radar_Project\obj\Debug\Radar_Project.csprojResolveAssemblyReference.cache
+C:\Users\Elite\Desktop\Gamdan\Radar_Project\Radar_Project\obj\Debug\Radar_Project.Form1.resources
+C:\Users\Elite\Desktop\Gamdan\Radar_Project\Radar_Project\obj\Debug\Radar_Project.Properties.Resources.resources
+C:\Users\Elite\Desktop\Gamdan\Radar_Project\Radar_Project\obj\Debug\Radar_Project.csproj.GenerateResource.Cache
