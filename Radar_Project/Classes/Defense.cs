@@ -15,6 +15,19 @@ namespace Ammar.Classes
 
 
 
+        public static void Lunch_Rocket()
+        {
+            //if (Form1.frm.Plane.Location.X == 700)
+            //    lunchSound();
+            //Form1.frm.c -= 15;
+            //Form1.frm.label1.Visible = true;
+            //Form1.frm.label1.Location = new Point(500, Form1.frm.c);
+
+            //if (Form1.frm.Plane.Location.X == 520)
+            //    PomSound();
+        }
+
+
         /// <summary>
         ///  this is a function to play sound of pom 
         /// </summary>
