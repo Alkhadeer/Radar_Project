@@ -19,3 +19,6 @@ C:\Users\Elite\Desktop\Gamdan\Radar_Project\Radar_Project\obj\Debug\Radar_Projec
 C:\Users\Elite\Desktop\Ammar project\Zain\Radar_Project\Radar_Project\bin\Debug\Radar_Project.exe.config
 C:\Users\Elite\Desktop\Ammar project\Zain\Radar_Project\Radar_Project\obj\Debug\Radar_Project.exe
 C:\Users\Elite\Desktop\Ammar project\Zain\Radar_Project\Radar_Project\obj\Debug\Radar_Project.pdb
+C:\Users\Elite\Desktop\Ammar project\Omar\Radar_Project\Radar_Project\bin\Debug\Radar_Project.exe.config
+C:\Users\Elite\Desktop\Ammar project\Omar\Radar_Project\Radar_Project\obj\Debug\Radar_Project.exe
+C:\Users\Elite\Desktop\Ammar project\Omar\Radar_Project\Radar_Project\obj\Debug\Radar_Project.pdb
