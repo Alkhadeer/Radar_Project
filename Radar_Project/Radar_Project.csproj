@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Location_Plane.cs" />
     <Compile Include="Classes\Plane.cs" />
     <Compile Include="Classes\Sense_Plane.cs" />
     <Compile Include="Classes\Start_Radar.cs" />
