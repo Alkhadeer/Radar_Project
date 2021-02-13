@@ -10,7 +10,12 @@ namespace Ammar.Classes
 {
     class Alarm : Location_Plane
     {
+        public static void Lunch_Sound()
+        {
+            SoundPlayer alrm = new SoundPlayer("lunch.wav");
+            alrm.Play();
 
+        }
 
         public static void Message_for_User()
         {
