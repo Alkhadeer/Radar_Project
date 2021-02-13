@@ -25,7 +25,28 @@ namespace Ammar.Classes
             }
         }
 
+        /// <summary>
+        /// this is a property to get The Location of Y axis of plane . 
+        /// </summary>
+        public int Get_Y
+        {
+            get
+            {
+                return Y;
+            }
 
+
+        }
+        /// <summary>
+        ///  this is a function to get set location of plane from Form1
+        /// </summary>
+        public static void Plane_Loc()
+        {
+
+          //  X = Form1.frm.Plane.Location.X;
+          //  Y = Form1.frm.Plane.Location.Y;
+
+        }
 
     }
 }
