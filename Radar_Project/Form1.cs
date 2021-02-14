@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using Radar_Project.Classes;
 namespace Radar_Project
 {
     public partial class Form1 : Form
@@ -37,8 +37,8 @@ namespace Radar_Project
         /// <param name="e"></param>
         private void ON_Radar_Click(object sender, EventArgs e)
         {
-           // Start_Radar.ON_Radar();
-           // MessageBox.Show(Start_Radar.Message_For_User());
+            Start_Radar.ON_Radar();
+            MessageBox.Show(Start_Radar.Message_For_User());
             this.OFF_Radar.BackColor = Color.Empty;
             this.ON_Radar.BackColor = Color.Green;
         }
@@ -51,8 +51,8 @@ namespace Radar_Project
         /// <param name="e"></param>
         private void OFF_Radar_Click(object sender, EventArgs e)
         {
-           // Start_Radar.OFF_Radar();
-           // MessageBox.Show(Start_Radar.Message_For_User());
+            Start_Radar.OFF_Radar();
+            MessageBox.Show(Start_Radar.Message_For_User());
             this.OFF_Radar.BackColor = Color.Red;
             this.ON_Radar.BackColor = Color.Empty;
         }
@@ -61,7 +61,7 @@ namespace Radar_Project
         {
             t -= 3;
 
-         //   Classes.Controller.Get_Location_Plane();
+              Controller.Get_Location_Plane();
 
             this.Plane.Location = new Point(t, 30);
             if (Plane.Location.X <= 800)

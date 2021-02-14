@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Media;
 using System.Windows.Forms;
 using System.Drawing;
-namespace Ammar.Classes
+namespace Radar_Project.Classes
 {
     class Alarm : Location_Plane
     {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Media;
 using System.Windows.Forms;
 using System.Drawing;
-namespace Ammar.Classes
+namespace Radar_Project.Classes
 {
     class Defense : Location_Plane
     {
@@ -17,14 +17,14 @@ namespace Ammar.Classes
 
         public static void Lunch_Rocket()
         {
-            //if (Form1.frm.Plane.Location.X == 700)
-            //    lunchSound();
-            //Form1.frm.c -= 15;
-            //Form1.frm.label1.Visible = true;
-            //Form1.frm.label1.Location = new Point(500, Form1.frm.c);
+            if (Form1.frm.Plane.Location.X == 700)
+                lunchSound();
+            Form1.frm.c -= 15;
+            Form1.frm.label1.Visible = true;
+            Form1.frm.label1.Location = new Point(500, Form1.frm.c);
 
-            //if (Form1.frm.Plane.Location.X == 520)
-            //    PomSound();
+            if (Form1.frm.Plane.Location.X == 520)
+                PomSound();
         }
 
 

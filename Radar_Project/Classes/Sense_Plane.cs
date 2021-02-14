@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Windows.Forms;
 namespace Radar_Project.Classes
 {
-    class Sense_Plane 
+    class Sense_Plane : Location_Plane
     {
         static bool Is_plane = false;
         static bool Radar_State;
@@ -17,7 +17,7 @@ namespace Radar_Project.Classes
         /// </summary>
         public static void Get_Radar_State()
         {
-           // Radar_State = Start_Radar.Send_Radar_State();
+            Radar_State = Start_Radar.Send_Radar_State();
         }
 
         /// <summary>
@@ -29,14 +29,16 @@ namespace Radar_Project.Classes
             Get_Radar_State();
 
             if (Form1.frm.Plane.Location.X == 1300)
-             //   Plane.PlainSound();
+                Plane.PlainSound();
 
             if (Radar_State)
-             //   if (X <= 1454 || Y <= 784)
+                if (X <= 1454 || Y <= 784)
                 {
                     Is_plane = true;
                 }
             return Is_plane;
         }
+
+
     }
 }

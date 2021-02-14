@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Drawing;
 
-namespace Ammar.Classes
+namespace Radar_Project.Classes
 {
     class Location_Plane
     {
@@ -43,8 +43,8 @@ namespace Ammar.Classes
         public static void Plane_Loc()
         {
 
-          //  X = Form1.frm.Plane.Location.X;
-          //  Y = Form1.frm.Plane.Location.Y;
+            X = Form1.frm.Plane.Location.X;
+            Y = Form1.frm.Plane.Location.Y;
 
         }
 

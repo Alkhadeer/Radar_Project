@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Media;
-namespace Ammar.Classes
+namespace Radar_Project.Classes
 {
-    class Plane //: Location_Plane
+    class Plane : Location_Plane
     {
         public static SoundPlayer plains = new SoundPlayer("PlainS.wav");
 

@@ -40,3 +40,12 @@ C:\Users\Elite\Desktop\Ammar project\Rayaan\Radar_Project\Radar_Project\obj\Debu
 C:\Users\Elite\Desktop\Ammar project\Abdalwahhab\Radar_Project\Radar_Project\bin\Debug\Radar_Project.exe.config
 C:\Users\Elite\Desktop\Ammar project\Abdalwahhab\Radar_Project\Radar_Project\obj\Debug\Radar_Project.exe
 C:\Users\Elite\Desktop\Ammar project\Abdalwahhab\Radar_Project\Radar_Project\obj\Debug\Radar_Project.pdb
+C:\Users\Elite\Desktop\Ammar project\Alkhadeer Dawrah\Radar_Project\Radar_Project\bin\Debug\Radar_Project.exe.config
+C:\Users\Elite\Desktop\Ammar project\Alkhadeer Dawrah\Radar_Project\Radar_Project\obj\Debug\Radar_Project.exe
+C:\Users\Elite\Desktop\Ammar project\Alkhadeer Dawrah\Radar_Project\Radar_Project\obj\Debug\Radar_Project.pdb
+C:\Users\Elite\Desktop\Ammar project\Alkhadeer Dawrah\Radar_Project\Radar_Project\bin\Debug\Radar_Project.exe
+C:\Users\Elite\Desktop\Ammar project\Alkhadeer Dawrah\Radar_Project\Radar_Project\bin\Debug\Radar_Project.pdb
+C:\Users\Elite\Desktop\Ammar project\Alkhadeer Dawrah\Radar_Project\Radar_Project\obj\Debug\Radar_Project.csprojResolveAssemblyReference.cache
+C:\Users\Elite\Desktop\Ammar project\Alkhadeer Dawrah\Radar_Project\Radar_Project\obj\Debug\Radar_Project.Form1.resources
+C:\Users\Elite\Desktop\Ammar project\Alkhadeer Dawrah\Radar_Project\Radar_Project\obj\Debug\Radar_Project.Properties.Resources.resources
+C:\Users\Elite\Desktop\Ammar project\Alkhadeer Dawrah\Radar_Project\Radar_Project\obj\Debug\Radar_Project.csproj.GenerateResource.Cache
